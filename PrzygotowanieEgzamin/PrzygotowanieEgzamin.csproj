@@ -43,6 +43,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="KlasaBazowa.cs" />
+    <Compile Include="KlasaPochodna1.cs" />
+    <Compile Include="KlasaPochodna2.cs" />
+    <Compile Include="Over1.cs" />
+    <Compile Include="Over2.cs" />
+    <Compile Include="OverBase.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
